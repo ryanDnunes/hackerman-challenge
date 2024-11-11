@@ -1,4 +1,4 @@
-
+Me chamo Guilherme Ryan, sou estudante da puc e fui encaminhado por Vinicius que apresentou o projeto para concorrer a uma vaga. Obrigado pela oportunidade. Criei o site com javascript para backend e html e css para front já que não é obrigatorio usar outras linguagens.
 [![Hackerman.](https://c.tenor.com/xuNo8NDdwIkAAAAd/hackerman.gif)](https://synth.codes)
 
 
